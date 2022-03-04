@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>クラブ紹介！</title>
+
+</head>
+<body bgcolor="#0060ff">
+<center>
+<h1>コンピュータークラブでやること </h1></center>
+<hr>
+<p>
+<h3>コンピューターには、無限の可能性があります！！</h3>
+　HTMLという言語で、主にWEBページを作るための言語です。CSSと併用して使いことが多いです！<BR>
+<h4>ほかにも、VBscriptや、Jscript、SCRATCHなどをやってみてください！</h4>
+<hr align=center size=10 width=420 color="#20ff00">
+<center><marquee width=300 bgcolor="#ffffff">
+ぜひ、コンピュータークラブに入ってね！
+</marquee></center>
+
+</body>
+</html>
